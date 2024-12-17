@@ -1,5 +1,5 @@
 #!/bin/bash
-raw_file=$(cat ./autossh.sh)
+raw_file=$(cat ./autotunnel.sh)
 echo "Current content of autossh.sh:"
 echo "$raw_file"
 
