@@ -24,7 +24,7 @@ Before you begin, ensure you have:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/autotunnelssh.git
+git clone https://github.com/Tibinsunny/autotunnelssh.git
 cd autotunnelssh
 ```
 
